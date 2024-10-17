@@ -667,6 +667,11 @@ a:any-link {
     margin-right: 313px;
   }
 
+  .footer-links a:hover,
+  .footer-links a:focus-visible {
+    color: #26bba4;
+  }
+
   .footer-links__cl1,
   .footer-links__cl2 {
     gap: 12px;
