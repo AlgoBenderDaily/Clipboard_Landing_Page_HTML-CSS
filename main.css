@@ -685,12 +685,4 @@ a:any-link {
   .footer-links__cl2 {
     margin-right: 70px;
   }
-
-  .footer-social-links {
-    display: flex;
-    flex-flow: row;
-    justify-content: space-between;
-    align-items: center;
-    width: 152px;
-  }
 }
