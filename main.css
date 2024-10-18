@@ -491,6 +491,8 @@ a:any-link {
   .main-tracking {
     gap: 80px;
     margin-bottom: 150px;
+    position: relative;
+    width: 100%;
   }
 
   .main-tracking__text-tracking {
@@ -512,6 +514,9 @@ a:any-link {
   .main-tracking__features-tracking {
     gap: 110px;
     flex-flow: row;
+    position: relative;
+    left: -32px;
+    width: calc(100% + 64px);
   }
 
   .features-tracking__hero img {
