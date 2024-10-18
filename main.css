@@ -690,4 +690,12 @@ a:any-link {
   .footer-links__cl2 {
     margin-right: 70px;
   }
+
+  div:hover .org {
+    display: none;
+  }
+
+  div:hover .hover {
+    display: block;
+  }
 }
